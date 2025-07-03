@@ -6,7 +6,8 @@ This dashboard provides insights into Blinkit’s grocery pricing trends and pro
 ##  Files Included
 - `BlinkIT Grocery Dashboard.xlsx`: The core dashboard file
 - `dashboard-preview.png`: Snapshot of the visual output
--`dataset
+-`dataset`
+-`Readme.md`
 
 ##  Tools Used
 - Microsoft Excel
